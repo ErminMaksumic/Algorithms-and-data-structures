@@ -128,19 +128,6 @@ void main()
 {
 
 
-	//testiraj_listu(new ListaPov<int>);
-	//testiraj_listu(new ListaSekv<int>);
-
-
-	//Lista<Osoba>* a = new ListaSekv<Osoba>;
-	//a->dodaj_na_kraj(Osoba(100, "ime100"));
-
-
-	//Lista<Osoba*>* b = new ListaSekv<Osoba*>;
-	//b->dodaj_na_kraj(new Osoba(101, "ime101"));
-	//
-	//
-
 	testiraj_stek(new StekPov<int>);
 	testiraj_stek(new StekSekv<int>);
 }
