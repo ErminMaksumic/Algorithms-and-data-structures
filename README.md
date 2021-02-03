@@ -5,3 +5,4 @@
 * [2.0 StekSekv+StekPov](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/2.1.%20StekSekv%2BStekPov.cpp)
 * [3.1 RedSekv](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/3.1.%20RedSekv.cpp)
 * [3.2 RedPov](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/3.2.%20RedPov.cpp)
+* [4.1 PrioritetniRedSekv](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/4.1.%20PrioritetniRedSekv.cpp)
