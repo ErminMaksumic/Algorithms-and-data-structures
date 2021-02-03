@@ -68,16 +68,15 @@ public:
 	}
 	void print()
 	{
-		if (IsPrazan())
+		int b = 0;
+		int t = pocetak;
+		while (b < brojac)
 		{
-			cout << "Prazno\n";
-		}
-		else
-		{
-			for (size_t i = pocetak; i < kraj; i++)
-			{
-				cout << "[ " << podaci[i] << " ]" << " ";
-			}
+			cout << "[ " << podaci[t] << " ]" << " ";
+			b++;
+			t++;
+			if (t == maxSize)
+				t = 0;
 		}
 	}
 };
