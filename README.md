@@ -6,3 +6,4 @@
 * [3.1 RedSekv](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/3.1.%20RedSekv.cpp)
 * [3.2 RedPov](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/3.2.%20RedPov.cpp)
 * [4.1 PrioritetniRedSekv](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/4.1.%20PrioritetniRedSekv.cpp)
+* [4.2 PrioritetniRedPov](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/4.2.%20PrioritetniRedPov.cpp)
