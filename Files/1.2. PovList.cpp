@@ -85,7 +85,7 @@ public:
 		}
 		else
 		{
-			tempDoPredzadnjeg->next = nullptr;
+			prvi = nullptr;
 		}
 		brojac--;
 		return uklonjeni;
