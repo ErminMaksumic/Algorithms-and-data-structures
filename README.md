@@ -8,3 +8,5 @@
 * [4.1 PrioritetniRedSekv](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/4.1.%20PrioritetniRedSekv.cpp)
 * [4.2 PrioritetniRedPov](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/4.2.%20PrioritetniRedPov.cpp)
 * [4.3 PrioritetniRedHeap](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/4.3.%20PrioritetniRedHeap.cpp)
+* [5.0 InsertionSelectionBubble](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/5.0%20InsertionSelectionBubble.cpp)
+* [6.0 HashingUlancavanje](https://github.com/ErminMaksumic/Algorithms-and-data-structures/blob/master/Files/6.1.%20HashingUlancavanje.cpp)
